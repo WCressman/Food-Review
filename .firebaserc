@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "friendlyeats-codelab": "friendlyeats-codelab-will",
+    "default": "friendlyeats-codelab-will"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
